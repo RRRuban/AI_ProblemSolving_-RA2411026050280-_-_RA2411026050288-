@@ -1,3 +1,8 @@
+## Introduction
+AI Assignment is to enable students to apply Artifical Intelligence problem-solving techniques through pratcal implementation and collaborative development using GitHub For
+Problem 1: Interactive Tic Tac Toe Game 
+Problem 2: Sudoku Game CSP Solver
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
