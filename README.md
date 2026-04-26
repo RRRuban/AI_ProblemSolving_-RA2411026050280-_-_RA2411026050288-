@@ -8,6 +8,8 @@ AI Assignment is to enable students to apply Artifical Intelligence problem-solv
 Problem 1: Interactive Tic Tac Toe Game 
 Problem 2: Sudoku Game CSP Solver
 
+## Home Page :![image alt](https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-/blob/cdf67d3ca404feb30bf573aa01b7abfae7156e5d/home_page.png)
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
