@@ -92,6 +92,8 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 
 #### Constraint Satisfaction Problem (CSP) with Backtracking + MRV Heuristic
 
+## Interface:![image alt](https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-/blob/9381f90e2695e096df2d93fd9b844e821b7a9c49/sudoku_puzzle.png)
+
 **CSP Components:**
 
 | Component | Description |
