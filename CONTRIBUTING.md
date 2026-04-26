@@ -113,8 +113,8 @@ Open `http://localhost:5000` in your browser.
 ## 📧 Contact
 
 For questions or suggestions, reach out to:
-- **Shree Shanth VJ** — RA2411026050283
-- **Somas Kandan J** — RA2411026050285
+- **Jaya Ruban P** — RA2411026050280 
+- **Aswin R** — RA2411026050288
 
 ---
 
